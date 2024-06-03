@@ -1,0 +1,14 @@
+C:\Users\tkheya871\source\repos\StringProject\StringProject\bin\Debug\net8.0\StringProject.exe
+C:\Users\tkheya871\source\repos\StringProject\StringProject\bin\Debug\net8.0\StringProject.deps.json
+C:\Users\tkheya871\source\repos\StringProject\StringProject\bin\Debug\net8.0\StringProject.runtimeconfig.json
+C:\Users\tkheya871\source\repos\StringProject\StringProject\bin\Debug\net8.0\StringProject.dll
+C:\Users\tkheya871\source\repos\StringProject\StringProject\bin\Debug\net8.0\StringProject.pdb
+C:\Users\tkheya871\source\repos\StringProject\StringProject\obj\Debug\net8.0\StringProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tkheya871\source\repos\StringProject\StringProject\obj\Debug\net8.0\StringProject.AssemblyInfoInputs.cache
+C:\Users\tkheya871\source\repos\StringProject\StringProject\obj\Debug\net8.0\StringProject.AssemblyInfo.cs
+C:\Users\tkheya871\source\repos\StringProject\StringProject\obj\Debug\net8.0\StringProject.csproj.CoreCompileInputs.cache
+C:\Users\tkheya871\source\repos\StringProject\StringProject\obj\Debug\net8.0\StringProject.dll
+C:\Users\tkheya871\source\repos\StringProject\StringProject\obj\Debug\net8.0\refint\StringProject.dll
+C:\Users\tkheya871\source\repos\StringProject\StringProject\obj\Debug\net8.0\StringProject.pdb
+C:\Users\tkheya871\source\repos\StringProject\StringProject\obj\Debug\net8.0\StringProject.genruntimeconfig.cache
+C:\Users\tkheya871\source\repos\StringProject\StringProject\obj\Debug\net8.0\ref\StringProject.dll
