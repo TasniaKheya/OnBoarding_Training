@@ -1,0 +1,14 @@
+C:\Users\tkheya871\source\repos\Task02\bin\Debug\net8.0\Task02.exe
+C:\Users\tkheya871\source\repos\Task02\bin\Debug\net8.0\Task02.deps.json
+C:\Users\tkheya871\source\repos\Task02\bin\Debug\net8.0\Task02.runtimeconfig.json
+C:\Users\tkheya871\source\repos\Task02\bin\Debug\net8.0\Task02.dll
+C:\Users\tkheya871\source\repos\Task02\bin\Debug\net8.0\Task02.pdb
+C:\Users\tkheya871\source\repos\Task02\obj\Debug\net8.0\Task02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tkheya871\source\repos\Task02\obj\Debug\net8.0\Task02.AssemblyInfoInputs.cache
+C:\Users\tkheya871\source\repos\Task02\obj\Debug\net8.0\Task02.AssemblyInfo.cs
+C:\Users\tkheya871\source\repos\Task02\obj\Debug\net8.0\Task02.csproj.CoreCompileInputs.cache
+C:\Users\tkheya871\source\repos\Task02\obj\Debug\net8.0\Task02.dll
+C:\Users\tkheya871\source\repos\Task02\obj\Debug\net8.0\refint\Task02.dll
+C:\Users\tkheya871\source\repos\Task02\obj\Debug\net8.0\Task02.pdb
+C:\Users\tkheya871\source\repos\Task02\obj\Debug\net8.0\Task02.genruntimeconfig.cache
+C:\Users\tkheya871\source\repos\Task02\obj\Debug\net8.0\ref\Task02.dll
