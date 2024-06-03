@@ -1,0 +1,15 @@
+C:\Users\tkheya871\source\repos\OnBoarding_Training\CoodeForces\bin\Debug\net8.0\CoodeForces.exe
+C:\Users\tkheya871\source\repos\OnBoarding_Training\CoodeForces\bin\Debug\net8.0\CoodeForces.deps.json
+C:\Users\tkheya871\source\repos\OnBoarding_Training\CoodeForces\bin\Debug\net8.0\CoodeForces.runtimeconfig.json
+C:\Users\tkheya871\source\repos\OnBoarding_Training\CoodeForces\bin\Debug\net8.0\CoodeForces.dll
+C:\Users\tkheya871\source\repos\OnBoarding_Training\CoodeForces\bin\Debug\net8.0\CoodeForces.pdb
+C:\Users\tkheya871\source\repos\OnBoarding_Training\CoodeForces\obj\Debug\net8.0\CoodeForces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tkheya871\source\repos\OnBoarding_Training\CoodeForces\obj\Debug\net8.0\CoodeForces.AssemblyInfoInputs.cache
+C:\Users\tkheya871\source\repos\OnBoarding_Training\CoodeForces\obj\Debug\net8.0\CoodeForces.AssemblyInfo.cs
+C:\Users\tkheya871\source\repos\OnBoarding_Training\CoodeForces\obj\Debug\net8.0\CoodeForces.csproj.CoreCompileInputs.cache
+C:\Users\tkheya871\source\repos\OnBoarding_Training\CoodeForces\obj\Debug\net8.0\CoodeForces.sourcelink.json
+C:\Users\tkheya871\source\repos\OnBoarding_Training\CoodeForces\obj\Debug\net8.0\CoodeForces.dll
+C:\Users\tkheya871\source\repos\OnBoarding_Training\CoodeForces\obj\Debug\net8.0\refint\CoodeForces.dll
+C:\Users\tkheya871\source\repos\OnBoarding_Training\CoodeForces\obj\Debug\net8.0\CoodeForces.pdb
+C:\Users\tkheya871\source\repos\OnBoarding_Training\CoodeForces\obj\Debug\net8.0\CoodeForces.genruntimeconfig.cache
+C:\Users\tkheya871\source\repos\OnBoarding_Training\CoodeForces\obj\Debug\net8.0\ref\CoodeForces.dll
