@@ -1,0 +1,15 @@
+C:\Users\tkheya871\source\repos\OnBoarding_Training\PractiseQuestion\bin\Debug\net8.0\PractiseQuestion.exe
+C:\Users\tkheya871\source\repos\OnBoarding_Training\PractiseQuestion\bin\Debug\net8.0\PractiseQuestion.deps.json
+C:\Users\tkheya871\source\repos\OnBoarding_Training\PractiseQuestion\bin\Debug\net8.0\PractiseQuestion.runtimeconfig.json
+C:\Users\tkheya871\source\repos\OnBoarding_Training\PractiseQuestion\bin\Debug\net8.0\PractiseQuestion.dll
+C:\Users\tkheya871\source\repos\OnBoarding_Training\PractiseQuestion\bin\Debug\net8.0\PractiseQuestion.pdb
+C:\Users\tkheya871\source\repos\OnBoarding_Training\PractiseQuestion\obj\Debug\net8.0\PractiseQuestion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tkheya871\source\repos\OnBoarding_Training\PractiseQuestion\obj\Debug\net8.0\PractiseQuestion.AssemblyInfoInputs.cache
+C:\Users\tkheya871\source\repos\OnBoarding_Training\PractiseQuestion\obj\Debug\net8.0\PractiseQuestion.AssemblyInfo.cs
+C:\Users\tkheya871\source\repos\OnBoarding_Training\PractiseQuestion\obj\Debug\net8.0\PractiseQuestion.csproj.CoreCompileInputs.cache
+C:\Users\tkheya871\source\repos\OnBoarding_Training\PractiseQuestion\obj\Debug\net8.0\PractiseQuestion.sourcelink.json
+C:\Users\tkheya871\source\repos\OnBoarding_Training\PractiseQuestion\obj\Debug\net8.0\PractiseQuestion.dll
+C:\Users\tkheya871\source\repos\OnBoarding_Training\PractiseQuestion\obj\Debug\net8.0\refint\PractiseQuestion.dll
+C:\Users\tkheya871\source\repos\OnBoarding_Training\PractiseQuestion\obj\Debug\net8.0\PractiseQuestion.pdb
+C:\Users\tkheya871\source\repos\OnBoarding_Training\PractiseQuestion\obj\Debug\net8.0\PractiseQuestion.genruntimeconfig.cache
+C:\Users\tkheya871\source\repos\OnBoarding_Training\PractiseQuestion\obj\Debug\net8.0\ref\PractiseQuestion.dll
