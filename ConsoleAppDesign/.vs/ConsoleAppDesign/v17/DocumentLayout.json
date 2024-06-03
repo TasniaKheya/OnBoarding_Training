@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tkheya871\\Desktop\\New folder\\ConsoleAppDesign\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{960C5035-11FB-4C7D-AB05-F82D2AF93850}|ConsoleAppDesign\\ConsoleAppDesign.csproj|c:\\users\\tkheya871\\desktop\\new folder\\consoleappdesign\\consoleappdesign\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{960C5035-11FB-4C7D-AB05-F82D2AF93850}|ConsoleAppDesign\\ConsoleAppDesign.csproj|solutionrelative:consoleappdesign\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tkheya871\\Desktop\\New folder\\ConsoleAppDesign\\ConsoleAppDesign\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleAppDesign\\Program.cs",
+              "ToolTip": "C:\\Users\\tkheya871\\Desktop\\New folder\\ConsoleAppDesign\\ConsoleAppDesign\\Program.cs",
+              "RelativeToolTip": "ConsoleAppDesign\\Program.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAIwA0AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T09:35:35.01Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

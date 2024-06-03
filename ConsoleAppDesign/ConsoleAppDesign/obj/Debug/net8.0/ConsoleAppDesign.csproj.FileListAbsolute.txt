@@ -1,0 +1,14 @@
+C:\Users\tkheya871\source\repos\ConsoleAppDesign\ConsoleAppDesign\bin\Debug\net8.0\ConsoleAppDesign.exe
+C:\Users\tkheya871\source\repos\ConsoleAppDesign\ConsoleAppDesign\bin\Debug\net8.0\ConsoleAppDesign.deps.json
+C:\Users\tkheya871\source\repos\ConsoleAppDesign\ConsoleAppDesign\bin\Debug\net8.0\ConsoleAppDesign.runtimeconfig.json
+C:\Users\tkheya871\source\repos\ConsoleAppDesign\ConsoleAppDesign\bin\Debug\net8.0\ConsoleAppDesign.dll
+C:\Users\tkheya871\source\repos\ConsoleAppDesign\ConsoleAppDesign\bin\Debug\net8.0\ConsoleAppDesign.pdb
+C:\Users\tkheya871\source\repos\ConsoleAppDesign\ConsoleAppDesign\obj\Debug\net8.0\ConsoleAppDesign.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tkheya871\source\repos\ConsoleAppDesign\ConsoleAppDesign\obj\Debug\net8.0\ConsoleAppDesign.AssemblyInfoInputs.cache
+C:\Users\tkheya871\source\repos\ConsoleAppDesign\ConsoleAppDesign\obj\Debug\net8.0\ConsoleAppDesign.AssemblyInfo.cs
+C:\Users\tkheya871\source\repos\ConsoleAppDesign\ConsoleAppDesign\obj\Debug\net8.0\ConsoleAppDesign.csproj.CoreCompileInputs.cache
+C:\Users\tkheya871\source\repos\ConsoleAppDesign\ConsoleAppDesign\obj\Debug\net8.0\ConsoleAppDesign.dll
+C:\Users\tkheya871\source\repos\ConsoleAppDesign\ConsoleAppDesign\obj\Debug\net8.0\refint\ConsoleAppDesign.dll
+C:\Users\tkheya871\source\repos\ConsoleAppDesign\ConsoleAppDesign\obj\Debug\net8.0\ConsoleAppDesign.pdb
+C:\Users\tkheya871\source\repos\ConsoleAppDesign\ConsoleAppDesign\obj\Debug\net8.0\ConsoleAppDesign.genruntimeconfig.cache
+C:\Users\tkheya871\source\repos\ConsoleAppDesign\ConsoleAppDesign\obj\Debug\net8.0\ref\ConsoleAppDesign.dll
