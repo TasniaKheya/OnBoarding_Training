@@ -1,0 +1,14 @@
+C:\Users\tkheya871\source\repos\AssignedTaskStudent\bin\Debug\net8.0\AssignedTaskStudent.exe
+C:\Users\tkheya871\source\repos\AssignedTaskStudent\bin\Debug\net8.0\AssignedTaskStudent.deps.json
+C:\Users\tkheya871\source\repos\AssignedTaskStudent\bin\Debug\net8.0\AssignedTaskStudent.runtimeconfig.json
+C:\Users\tkheya871\source\repos\AssignedTaskStudent\bin\Debug\net8.0\AssignedTaskStudent.dll
+C:\Users\tkheya871\source\repos\AssignedTaskStudent\bin\Debug\net8.0\AssignedTaskStudent.pdb
+C:\Users\tkheya871\source\repos\AssignedTaskStudent\obj\Debug\net8.0\AssignedTaskStudent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tkheya871\source\repos\AssignedTaskStudent\obj\Debug\net8.0\AssignedTaskStudent.AssemblyInfoInputs.cache
+C:\Users\tkheya871\source\repos\AssignedTaskStudent\obj\Debug\net8.0\AssignedTaskStudent.AssemblyInfo.cs
+C:\Users\tkheya871\source\repos\AssignedTaskStudent\obj\Debug\net8.0\AssignedTaskStudent.csproj.CoreCompileInputs.cache
+C:\Users\tkheya871\source\repos\AssignedTaskStudent\obj\Debug\net8.0\AssignedTaskStudent.dll
+C:\Users\tkheya871\source\repos\AssignedTaskStudent\obj\Debug\net8.0\refint\AssignedTaskStudent.dll
+C:\Users\tkheya871\source\repos\AssignedTaskStudent\obj\Debug\net8.0\AssignedTaskStudent.pdb
+C:\Users\tkheya871\source\repos\AssignedTaskStudent\obj\Debug\net8.0\AssignedTaskStudent.genruntimeconfig.cache
+C:\Users\tkheya871\source\repos\AssignedTaskStudent\obj\Debug\net8.0\ref\AssignedTaskStudent.dll
