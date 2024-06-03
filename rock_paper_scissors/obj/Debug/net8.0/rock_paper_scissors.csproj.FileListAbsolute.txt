@@ -1,0 +1,15 @@
+C:\Users\tkheya871\source\repos\OnBoarding_Training\rock_paper_scissors\bin\Debug\net8.0\rock_paper_scissors.exe
+C:\Users\tkheya871\source\repos\OnBoarding_Training\rock_paper_scissors\bin\Debug\net8.0\rock_paper_scissors.deps.json
+C:\Users\tkheya871\source\repos\OnBoarding_Training\rock_paper_scissors\bin\Debug\net8.0\rock_paper_scissors.runtimeconfig.json
+C:\Users\tkheya871\source\repos\OnBoarding_Training\rock_paper_scissors\bin\Debug\net8.0\rock_paper_scissors.dll
+C:\Users\tkheya871\source\repos\OnBoarding_Training\rock_paper_scissors\bin\Debug\net8.0\rock_paper_scissors.pdb
+C:\Users\tkheya871\source\repos\OnBoarding_Training\rock_paper_scissors\obj\Debug\net8.0\rock_paper_scissors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tkheya871\source\repos\OnBoarding_Training\rock_paper_scissors\obj\Debug\net8.0\rock_paper_scissors.AssemblyInfoInputs.cache
+C:\Users\tkheya871\source\repos\OnBoarding_Training\rock_paper_scissors\obj\Debug\net8.0\rock_paper_scissors.AssemblyInfo.cs
+C:\Users\tkheya871\source\repos\OnBoarding_Training\rock_paper_scissors\obj\Debug\net8.0\rock_paper_scissors.csproj.CoreCompileInputs.cache
+C:\Users\tkheya871\source\repos\OnBoarding_Training\rock_paper_scissors\obj\Debug\net8.0\rock_paper_scissors.sourcelink.json
+C:\Users\tkheya871\source\repos\OnBoarding_Training\rock_paper_scissors\obj\Debug\net8.0\rock_paper_scissors.dll
+C:\Users\tkheya871\source\repos\OnBoarding_Training\rock_paper_scissors\obj\Debug\net8.0\refint\rock_paper_scissors.dll
+C:\Users\tkheya871\source\repos\OnBoarding_Training\rock_paper_scissors\obj\Debug\net8.0\rock_paper_scissors.pdb
+C:\Users\tkheya871\source\repos\OnBoarding_Training\rock_paper_scissors\obj\Debug\net8.0\rock_paper_scissors.genruntimeconfig.cache
+C:\Users\tkheya871\source\repos\OnBoarding_Training\rock_paper_scissors\obj\Debug\net8.0\ref\rock_paper_scissors.dll
