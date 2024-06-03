@@ -1,0 +1,14 @@
+C:\Users\tkheya871\source\repos\CodePractise\CodePractise\bin\Debug\net8.0\CodePractise.exe
+C:\Users\tkheya871\source\repos\CodePractise\CodePractise\bin\Debug\net8.0\CodePractise.deps.json
+C:\Users\tkheya871\source\repos\CodePractise\CodePractise\bin\Debug\net8.0\CodePractise.runtimeconfig.json
+C:\Users\tkheya871\source\repos\CodePractise\CodePractise\bin\Debug\net8.0\CodePractise.dll
+C:\Users\tkheya871\source\repos\CodePractise\CodePractise\bin\Debug\net8.0\CodePractise.pdb
+C:\Users\tkheya871\source\repos\CodePractise\CodePractise\obj\Debug\net8.0\CodePractise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tkheya871\source\repos\CodePractise\CodePractise\obj\Debug\net8.0\CodePractise.AssemblyInfoInputs.cache
+C:\Users\tkheya871\source\repos\CodePractise\CodePractise\obj\Debug\net8.0\CodePractise.AssemblyInfo.cs
+C:\Users\tkheya871\source\repos\CodePractise\CodePractise\obj\Debug\net8.0\CodePractise.csproj.CoreCompileInputs.cache
+C:\Users\tkheya871\source\repos\CodePractise\CodePractise\obj\Debug\net8.0\CodePractise.dll
+C:\Users\tkheya871\source\repos\CodePractise\CodePractise\obj\Debug\net8.0\refint\CodePractise.dll
+C:\Users\tkheya871\source\repos\CodePractise\CodePractise\obj\Debug\net8.0\CodePractise.pdb
+C:\Users\tkheya871\source\repos\CodePractise\CodePractise\obj\Debug\net8.0\CodePractise.genruntimeconfig.cache
+C:\Users\tkheya871\source\repos\CodePractise\CodePractise\obj\Debug\net8.0\ref\CodePractise.dll
