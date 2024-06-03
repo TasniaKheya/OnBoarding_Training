@@ -1,0 +1,17 @@
+C:\Users\tkheya871\source\repos\OnBoarding_Training\DataCollection\bin\Debug\net8.0-windows\DataCollection.exe
+C:\Users\tkheya871\source\repos\OnBoarding_Training\DataCollection\bin\Debug\net8.0-windows\DataCollection.deps.json
+C:\Users\tkheya871\source\repos\OnBoarding_Training\DataCollection\bin\Debug\net8.0-windows\DataCollection.runtimeconfig.json
+C:\Users\tkheya871\source\repos\OnBoarding_Training\DataCollection\bin\Debug\net8.0-windows\DataCollection.dll
+C:\Users\tkheya871\source\repos\OnBoarding_Training\DataCollection\bin\Debug\net8.0-windows\DataCollection.pdb
+C:\Users\tkheya871\source\repos\OnBoarding_Training\DataCollection\obj\Debug\net8.0-windows\DataCollection.Form1.resources
+C:\Users\tkheya871\source\repos\OnBoarding_Training\DataCollection\obj\Debug\net8.0-windows\DataCollection.csproj.GenerateResource.cache
+C:\Users\tkheya871\source\repos\OnBoarding_Training\DataCollection\obj\Debug\net8.0-windows\DataCollection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tkheya871\source\repos\OnBoarding_Training\DataCollection\obj\Debug\net8.0-windows\DataCollection.AssemblyInfoInputs.cache
+C:\Users\tkheya871\source\repos\OnBoarding_Training\DataCollection\obj\Debug\net8.0-windows\DataCollection.AssemblyInfo.cs
+C:\Users\tkheya871\source\repos\OnBoarding_Training\DataCollection\obj\Debug\net8.0-windows\DataCollection.csproj.CoreCompileInputs.cache
+C:\Users\tkheya871\source\repos\OnBoarding_Training\DataCollection\obj\Debug\net8.0-windows\DataCollection.sourcelink.json
+C:\Users\tkheya871\source\repos\OnBoarding_Training\DataCollection\obj\Debug\net8.0-windows\DataCollection.dll
+C:\Users\tkheya871\source\repos\OnBoarding_Training\DataCollection\obj\Debug\net8.0-windows\refint\DataCollection.dll
+C:\Users\tkheya871\source\repos\OnBoarding_Training\DataCollection\obj\Debug\net8.0-windows\DataCollection.pdb
+C:\Users\tkheya871\source\repos\OnBoarding_Training\DataCollection\obj\Debug\net8.0-windows\DataCollection.genruntimeconfig.cache
+C:\Users\tkheya871\source\repos\OnBoarding_Training\DataCollection\obj\Debug\net8.0-windows\ref\DataCollection.dll
